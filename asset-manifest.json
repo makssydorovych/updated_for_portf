@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/holidayz_upd/static/css/main.1e408875.css",
-    "main.js": "/holidayz_upd/static/js/main.08c0abfc.js",
-    "static/js/787.8474de57.chunk.js": "/holidayz_upd/static/js/787.8474de57.chunk.js",
-    "static/media/img-2.jpg": "/holidayz_upd/static/media/img-2.508aa6893f8671d54299.jpg",
-    "static/media/img-1.jpg": "/holidayz_upd/static/media/img-1.18ea469b095f270bc2a0.jpg",
-    "static/media/hero-banner.jpg": "/holidayz_upd/static/media/hero-banner.3d2a9bbe0d29c9ff5ca9.jpg",
-    "static/media/img-4.jpg": "/holidayz_upd/static/media/img-4.55ae366e968e3676e982.jpg",
-    "static/media/img-3.jpg": "/holidayz_upd/static/media/img-3.23d5a14b39ff9a28a085.jpg",
-    "static/media/logo.svg": "/holidayz_upd/static/media/logo.07c8dd968e175c4f2413e3d0eccfeb96.svg",
-    "index.html": "/holidayz_upd/index.html",
-    "main.1e408875.css.map": "/holidayz_upd/static/css/main.1e408875.css.map",
-    "main.08c0abfc.js.map": "/holidayz_upd/static/js/main.08c0abfc.js.map",
-    "787.8474de57.chunk.js.map": "/holidayz_upd/static/js/787.8474de57.chunk.js.map"
+    "main.css": "/updated_for_portf/static/css/main.cb7e7afe.css",
+    "main.js": "/updated_for_portf/static/js/main.eedd48f3.js",
+    "static/js/787.8474de57.chunk.js": "/updated_for_portf/static/js/787.8474de57.chunk.js",
+    "static/media/img-2.jpg": "/updated_for_portf/static/media/img-2.508aa6893f8671d54299.jpg",
+    "static/media/img-1.jpg": "/updated_for_portf/static/media/img-1.18ea469b095f270bc2a0.jpg",
+    "static/media/hero-banner.jpg": "/updated_for_portf/static/media/hero-banner.3d2a9bbe0d29c9ff5ca9.jpg",
+    "static/media/img-4.jpg": "/updated_for_portf/static/media/img-4.55ae366e968e3676e982.jpg",
+    "static/media/img-3.jpg": "/updated_for_portf/static/media/img-3.23d5a14b39ff9a28a085.jpg",
+    "static/media/logo.svg": "/updated_for_portf/static/media/logo.07c8dd968e175c4f2413e3d0eccfeb96.svg",
+    "index.html": "/updated_for_portf/index.html",
+    "main.cb7e7afe.css.map": "/updated_for_portf/static/css/main.cb7e7afe.css.map",
+    "main.eedd48f3.js.map": "/updated_for_portf/static/js/main.eedd48f3.js.map",
+    "787.8474de57.chunk.js.map": "/updated_for_portf/static/js/787.8474de57.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e408875.css",
-    "static/js/main.08c0abfc.js"
+    "static/css/main.cb7e7afe.css",
+    "static/js/main.eedd48f3.js"
   ]
 }
