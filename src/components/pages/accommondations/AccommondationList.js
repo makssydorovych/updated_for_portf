@@ -40,8 +40,8 @@ export default function AccommondationList() {
 			{hotels
 				.filter(hotels => hotels.price > 0)
 				.map(function (hotel) {
-					const { _id, title, description, img, type } = hotel;
-					const { price } = hotel.price;
+					const { _id, title, description, img, type, price } = hotel;
+					// const { price } = hotel.price;
 
 					return (
 						<Col lg={3} md={4} sm={6} key={_id} className='p-0'>

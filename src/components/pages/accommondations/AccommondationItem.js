@@ -39,7 +39,7 @@ AccommondationItem.propTypes = {
 	id: PropTypes.string,
 	title: PropTypes.string,
 	image: PropTypes.string,
-	price: PropTypes.string,
+	price: PropTypes.number,
 	type: PropTypes.string,
 };
 
